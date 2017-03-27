@@ -1,4 +1,4 @@
-# Rust - Loops
+# Rust - Loops [&#128279;](https://doc.rust-lang.org/book/loops.html)
 
 Iterative options:
 - `loop`
@@ -65,7 +65,6 @@ for (linenumber, line) in lines.enumerate() {
 
 ```rust
 // instead of while shown above
-
 let mut x = 5;
 
 loop {

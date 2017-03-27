@@ -1,4 +1,4 @@
-# Rust - Vectors
+# Rust - Vectors [&#128279;]()
 
 A vector is a dynamic or 'growable' array, implimented as type `Vec<T>` (standard library).
 - `T` allows vectors of any type

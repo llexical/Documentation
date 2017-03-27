@@ -1,4 +1,4 @@
-# Rust - If
+# Rust - If [&#128279;](https://doc.rust-lang.org/book/if.html)
 
 - Simmilar to dynamic language `if`
 ```rust
