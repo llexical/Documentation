@@ -20,7 +20,7 @@ let x = 'x';
 let two_hearts = '💕';
 ```
 
-## Numberic types
+## Numeric types
 - categories: signed & unsigned, fixed & variable, floating-point & integer.
 - types are built of 2 parts, the category and the size. `u16` is an unsigned type with 16 bits of size. The more bits lets you have larger numbers.
 ```rust
