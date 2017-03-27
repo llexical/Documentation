@@ -1,7 +1,5 @@
 # Rust - Variable Bindings [&#128279;](https://doc.rust-lang.org/book/variable-bindings.html)
 
-- [Official Docs](https://doc.rust-lang.org/book/variable-bindings.html)
-
 ## Variable Bindings
 A basic variable binding:
 ```rust
