@@ -8,3 +8,6 @@ I doubt anyone will read this, however if you do and spot something incorrect or
 
 ## Languages:
 - [Rust](Rust/README.md)
+
+## Other:
+- [Design Patterns](Design%20Patterns/README.md)
