@@ -1,6 +1,6 @@
 # Documentation
 
-My own person documentation of different languages and frameworks, most of these notes have been written directly from other sources and I have just simplified it down or turned it into bullet points.
+My own personal documentation of different languages and frameworks, most of these notes have been written directly from other sources and I have just simplified it down or turned it into bullet points.
 
 I don't claim ownership of any of what I have written and will include links to reference the source on most, if not all, pages.
 
