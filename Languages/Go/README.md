@@ -1,4 +1,4 @@
 # Go
 
 Index
-- [Cheat Sheet]()
+- [Cheat Sheet](cheat_sheet.md)
